@@ -3,7 +3,7 @@
 #include <string.h>
 #include "chamado.h"
 #include "repository.h"
-git commit -m "first commit"
+
 #define ARQUIVO_BANCO "banco_chamados.dat"
 
 // 'static' encapsula as variáveis impedindo que o main.c ou o service.c as acessem diretamente.
